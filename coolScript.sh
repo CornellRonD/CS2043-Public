@@ -1,2 +1,2 @@
-echo "This is a cool script with a first argument of $1"
+echo "This is a VERY cool script with a first argument of $1"
 
